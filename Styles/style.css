@@ -1,0 +1,20 @@
+.navbar {
+  height: 7rem;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 1.2rem;
+}
+
+.card {
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+}
+
+.stepper {
+  font-family: "Courier New", Courier, monospace;
+  list-style-type: none;
+}
+
+.btn-primary {
+  font-family: "Courier New", Courier, monospace;
+  background-color: turquoise;
+}
