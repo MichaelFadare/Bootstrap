@@ -1,20 +1,25 @@
+* {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
 .navbar {
+  margin-bottom: 2rem;
   height: 7rem;
-  font-family: "Courier New", Courier, monospace;
   font-size: 1.2rem;
 }
 
 .card {
-  font-family: "Courier New", Courier, monospace;
+  margin-left: 2rem;
+  margin-bottom: 2rem;
   text-align: center;
 }
 
 .stepper {
-  font-family: "Courier New", Courier, monospace;
+  display: flex;
+  justify-content: center;
   list-style-type: none;
 }
 
 .btn-primary {
-  font-family: "Courier New", Courier, monospace;
-  background-color: purple;
+  background-color: #007bff;
+  border-color: #0056b3;
 }
