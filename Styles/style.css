@@ -13,10 +13,10 @@
   text-align: center;
 }
 
-.stepper {
-  display: flex;
+.progress-stacked {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
   justify-content: center;
-  list-style-type: none;
 }
 
 .btn-primary {
