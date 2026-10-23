@@ -7,16 +7,19 @@
   font-size: 1.2rem;
 }
 
-.card {
-  margin-left: 2rem;
-  margin-bottom: 2rem;
-  text-align: center;
-}
-
-.progress-stacked {
+.d-flex {
   margin-top: 2rem;
   margin-bottom: 2rem;
-  justify-content: center;
+  margin-left: 2rem;
+}
+
+.progress {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.progress-bar {
+  background-color: rgb(250, 3, 217);
 }
 
 .btn-primary {
